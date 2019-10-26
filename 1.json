@@ -1,0 +1,13 @@
+{
+"nama": "muhammad muhidin",
+"umur": 22,
+"address": "dsn ngelo kec mslo ksb bojonegoro",
+"hobi": ["coding", "berenang", "membaca komik", "nonton anime"],
+"is_married": false,
+"list_school": {["SD": "SDN TAMBAKROMO 2 TAHUN 2003-2009"]
+[
+"SMP": "SMPN 1 MALO TAHUN 2009-2012"]
+["SMK": "SMKN KASIMAN TAHUN 2012-2015]},
+"skill": {["html": "beginer"] ["css": "beginer"] ["javaskript": "beginer"]},
+"interest_in_coding": true,
+}
